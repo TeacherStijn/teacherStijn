@@ -12,9 +12,12 @@
 👥 Sharing great life's hobby's and interests<br>
 </p>
   
-# Where to find me
+# Where to find me<br>
 - Website: https://stijnjanssen.nl/
 - LinkedIn: https://www.linkedin.com/in/stijnjanssen83/
 - Youtube: https://www.youtube.com/@teacherstijn
 - Instagram: https://www.instagram.com/teacherstijn/
 - E-mail: info@stijnjanssen.nl
+
+# The bin<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teacherStijn)](https://github.com/anuraghazra/github-readme-stats)
