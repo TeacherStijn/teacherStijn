@@ -1,6 +1,6 @@
 # Welcome! I'm (teacher) Stijn<br>
 <p>
-🤯 Teach people in building apps and flows in the **Microsoft Power Platform**<br>
+🤯 Teach people in building apps and flows in the __Microsoft Power Platform__<br>
 🎮 Spare time car tuner and #gamedev<br>
 🎯 Founder of Bordspelproeverij.nl<br>
 </p>
