@@ -7,7 +7,7 @@
   
 # Mission<br>
 <p>
-🌟 Enthuse people for awesome tech and / or features on the hype train 🎢 !<br>
+  🌟 Enthuse people for awesome tech and / or features on the <strong>hype train</strong> 🎢 !<br>
 🧬 Making complex topics insightful for everyone<br>
 👥 Sharing great life's hobby's and interests<br>
 </p>
