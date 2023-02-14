@@ -19,5 +19,5 @@
 - Instagram: https://www.instagram.com/teacherstijn/
 - E-mail: info@stijnjanssen.nl
 
-# The bin<br>
+# Other info<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teacherStijn)](https://github.com/anuraghazra/github-readme-stats)
