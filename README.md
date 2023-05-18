@@ -13,11 +13,13 @@
 </p>
   
 # Where to find me<br>
-- Website: https://stijnjanssen.nl/
-- LinkedIn: https://www.linkedin.com/in/stijnjanssen83/
+- Website: https://www.teacherStijn.nl
+- Discord: https://discord.gg/zFD2MgtF
 - Youtube: https://www.youtube.com/@teacherstijn
-- Instagram: https://www.instagram.com/teacherstijn/
+- LinkedIn: https://www.linkedin.com/in/stijnjanssen83/
 - E-mail: info@stijnjanssen.nl
+- Instagram: https://www.instagram.com/teacherstijn/
+
 
 # Other info<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teacherStijn&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
