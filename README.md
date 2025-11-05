@@ -2,7 +2,9 @@
 <p>
   🤯 Teach people in building apps and flows in the <strong>Microsoft Power Platform</strong><br>
 🎮 Spare time car tuner and #gamedev<br>
-🎯 Founder of Bordspelproeverij.nl<br>
+🎯 Microsoft Learning Parner<br>
+🎯 Microsoft Trainer (MCT)
+🎯 Certified PL-100, PL-200, PL-400, PL-500, PL-900
 </p>
   
 # Mission<br>
