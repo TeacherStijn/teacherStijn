@@ -13,7 +13,7 @@
 </p>
   
 # Where to find me<br>
-- Website: https://www.teacherStijn.nl
+- Website: https://www.stijnjanssen.nl
 - Discord: https://discord.gg/zFD2MgtF
 - Youtube: https://www.youtube.com/@teacherstijn
 - LinkedIn: https://www.linkedin.com/in/stijnjanssen83/
